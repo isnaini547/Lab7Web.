@@ -133,16 +133,20 @@ Screenshot hasil praktikum disimpan di folder `screenshots`.
 ![latihan 8](ss/8foto.png)
 
 ### Latihan 6 – Form POST
-![Latihan 9](screenshots/post.png)
+![Latihan 9](ss/9foto.png)
+![latihan 10](ss/10foto.png)
 
 ### Latihan 7 – Menghitung Subtotal Barang
-![Latihan 7](screenshots/barang.png)
+![Latihan 7](ss/11foto.png)
+![latihan 7](ss/12foto.png)
 
 ### Mini Project – Form Mahasiswa Berhasil
-![Mini Project Valid](screenshots/mahasiswa_valid.png)
+![Mini Project Valid](ss/13foto.png)
+![12](ss/14foto.png)
 
 ### Mini Project – Pengujian Data Tidak Valid
-![Mini Project Tidak Valid](screenshots/mahasiswa_invalid.png)
+![Mini Project Tidak Valid](screenshots/15foto.png)
+![13](ss/16foto.png)
 
 ### Eksperimen 1 – Menghitung Rata-Rata
 ![Eksperimen Rata-rata](screenshots/rata_rata.png)
