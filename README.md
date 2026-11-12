@@ -144,13 +144,13 @@ Screenshot hasil praktikum disimpan di folder `screenshots`.
 ### Mini Project – Form Mahasiswa Berhasil
 ![Mini Project Valid](ss/14foto.png)
 ![12](ss/15foto.png)
-
+![13](ss/16foto.png)
 ### Mini Project – Pengujian Data Tidak Valid
-![Mini Project Tidak Valid](ss/16foto.png)
-![13](ss/17foto.png)
+![Mini Project Tidak Valid](ss/17foto.png)
+![13](ss/18foto.png)
 
 ### Eksperimen 1 – Menghitung Rata-Rata
-![Eksperimen Rata-rata](ss/18foto.png)
+![Eksperimen Rata-rata](ss/19foto.png)
 
 ### Eksperimen 2 – Pencarian GET
 ![Eksperimen GET](screenshots/search_get.png)
