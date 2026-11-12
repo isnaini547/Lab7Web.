@@ -150,17 +150,20 @@ Screenshot hasil praktikum disimpan di folder `screenshots`.
 ![13](ss/18foto.png)
 
 ### Eksperimen 1 – Menghitung Rata-Rata
-![Eksperimen Rata-rata](ss/19foto.png)
+![Eksperimen ](ss/19foto.png)
 
 ### Eksperimen 2 – Pencarian GET
-![Eksperimen GET](ss/20.png)
-![20](ss/21.png)
+![Eksperimen](ss/20foto.png)
+![20](ss/21foto.png)
 
 ### Eksperimen 3 – Format Rupiah
 ![Eksperimen Rupiah](ss/22foto.png)
 
 ### Eksperimen 4 – Validasi NIM
-![Eksperimen NIM](screenshots/validasi_nim.png)
+![Eksperimen NIM](ss/23foto.png)
+![eskperimen](ss/24foto.png)
+### jika memasukan NIM yang tidak sesuai
+![jika](ss/25foto.png)
 
 ## 7. Kesimpulan
 
