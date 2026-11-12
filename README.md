@@ -129,10 +129,11 @@ Screenshot hasil praktikum disimpan di folder `screenshots`.
 ![latihan 6](ss/6foto.png)
 
 ### Latihan 5 – Form GET
-![Latihan 5](screenshots/cari_get.png)
+![Latihan 7](ss/7foto.png)
+![latihan 8](ss/8foto.png)
 
 ### Latihan 6 – Form POST
-![Latihan 6](screenshots/post.png)
+![Latihan 9](screenshots/post.png)
 
 ### Latihan 7 – Menghitung Subtotal Barang
 ![Latihan 7](screenshots/barang.png)
