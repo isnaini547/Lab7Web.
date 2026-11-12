@@ -173,6 +173,36 @@ Praktikum ini juga memberikan pemahaman mengenai pentingnya validasi data dan pe
 
 Dengan menyelesaikan seluruh latihan dan eksperimen, saya menjadi lebih memahami dasar pemrograman PHP dan cara menjalankannya menggunakan server lokal XAMPP.
 
+### Pertanyaan & jawaban evaluasi
+
+
+1). Apa perbedaan pemrograman client-side dan server-side?
+
+Client-side adalah pemrograman yang dijalankan di browser pengguna, sedangkan server-side adalah pemrograman yang dijalankan di server. Contoh client-side adalah JavaScript, sedangkan contoh server-side adalah PHP.
+
+2). Mengapa PHP harus dijalankan melalui server?
+
+Karena PHP merupakan bahasa pemrograman server-side yang membutuhkan server seperti Apache untuk memproses kode PHP sebelum hasilnya ditampilkan di browser.
+
+3). Apa fungsi tanda `$` variabel PHP?
+
+Tanda `$` digunakan untuk menandai variabel dalam PHP. Variabel berfungsi untuk menyimpan data yang dapat digunakan dan diolah dalam program.
+
+4). Apa perbedaan metode GET dan POST?
+
+GET mengirimkan data melalui URL sehingga data terlihat pada alamat browser. Sedangkan POST mengirimkan data melalui bagian body permintaan sehingga tidak ditampilkan langsung pada URL.
+
+5\. Mengapa input pengguna perlu divalidasi di sisi server
+
+Validasi data di server diperlukan untuk memastikan data yang dikirim pengguna sesuai dengan ketentuan. Dengan begitu, data yang tidak sesuai dapat ditolak sebelum diproses lebih lanjut.
+
+6). Apa fungsi htmlspecialchars() ketika menampilkan data dari form9()
+
+Fungsi htmlspecialchars() digunakan untuk mengubah karakter khusus HTML menjadi bentuk yang aman ketika ditampilkan. Fungsi ini membantu mencegah serangan XSS.
+
+7). Apa manfaat menggunakan function dalam PHP?
+
+Function bermanfaat untuk membuat kode lebih terstruktur, mengurangi penulisan kode yang berulang, dapat digunakan kembali, dan memudahkan proses pemeliharaan program.
 ---
 
 **Praktikum 7 – Pemrograman Web**  
