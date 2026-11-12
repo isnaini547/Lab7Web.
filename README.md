@@ -118,13 +118,15 @@ Screenshot hasil praktikum disimpan di folder `screenshots`.
 ![Latihan 1](ss/1foto.png)
 
 ### Latihan 2 – Variabel dan Percabangan
-![Latihan 2](screenshots/latihan2.png)
+![Latihan 2](ss/2foto.png)
 
 ### Latihan 3 – Array dan Perulangan
-![Latihan 3](screenshots/latihan3.png)
+![Latihan 3](ss/3foto.png)
+![latihan 4](ss/4foto.png)
 
 ### Latihan 4 – Function
-![Latihan 4](screenshots/latihan4.png)
+![Latihan 5](ss/5foto.png)
+![latihan 6](ss/6foto.png)
 
 ### Latihan 5 – Form GET
 ![Latihan 5](screenshots/cari_get.png)
