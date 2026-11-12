@@ -107,7 +107,7 @@ Pengujian dilakukan menggunakan browser melalui server lokal XAMPP.
 
 ### Contoh Kasus Tidak Valid
 
-1. Form mahasiswa diisi dengan semester 20 dan email `isnaini@gmail`. Sistem menampilkan pesan kesalahan karena semester dan format email tidak valid.
+1. Form mahasiswa diisi dengan semester 20 dan email `isnai.com`. Sistem menampilkan pesan kesalahan karena semester dan format email tidak valid.
 2. Form validasi NIM diisi dengan data yang tidak memenuhi ketentuan angka dan panjang 9 digit. Sistem menampilkan pesan kesalahan.
 
 ## 6. Dokumentasi Screenshot
