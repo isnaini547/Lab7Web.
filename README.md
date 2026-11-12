@@ -150,8 +150,7 @@ Screenshot hasil praktikum disimpan di folder `screenshots`.
 ![13](ss/18foto.png)
 
 
-
-### Eksperimen 1 – Menghitung Rata-Rata
+![eksperimen](19%20foto.png)
 
 
 ### Eksperimen 2 – Pencarian GET
